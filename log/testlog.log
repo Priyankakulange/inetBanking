@@ -1,0 +1,77 @@
+2019-06-13 15:45:23,838 - ebanking -INFO - URL is opened
+2019-06-13 15:45:26,139 - ebanking -INFO - Entered username
+2019-06-13 15:45:26,375 - ebanking -INFO - Entered passward
+2019-06-13 15:45:30,161 - ebanking -INFO - Login test  passed
+2019-06-14 12:35:05,443 - ebanking -INFO - URL is opened
+2019-06-14 12:35:08,312 - ebanking -INFO - Entered username
+2019-06-14 12:35:08,674 - ebanking -INFO - Entered passward
+2019-06-14 12:35:12,471 - ebanking -INFO - Login test  passed
+2019-06-14 12:41:52,794 - ebanking -INFO - URL is opened
+2019-06-14 12:41:54,386 - ebanking -INFO - Entered username
+2019-06-14 12:41:54,632 - ebanking -INFO - Entered passward
+2019-06-14 12:41:58,039 - ebanking -INFO - Login test  passed
+2019-06-14 12:45:08,193 - ebanking -INFO - URL is opened
+2019-06-14 12:45:09,913 - ebanking -INFO - Entered username
+2019-06-14 12:45:10,148 - ebanking -INFO - Entered passward
+2019-06-14 12:45:13,669 - ebanking -INFO - Login test  passed
+2019-06-14 13:30:34,436 - ebanking -INFO - URL is opened
+2019-06-14 13:30:36,372 - ebanking -INFO - Entered username
+2019-06-14 13:30:36,621 - ebanking -INFO - Entered passward
+2019-06-14 13:30:40,020 - ebanking -INFO - Login test  passed
+2019-06-14 13:55:43,369 - ebanking -INFO - URL is opened
+2019-06-14 13:55:43,529 - ebanking -INFO - Entered username
+2019-06-14 13:55:43,601 - ebanking -INFO - Entered passward
+2019-06-14 13:55:44,808 - ebanking -INFO - Login test  passed
+2019-06-18 15:53:22,050 - ebanking -INFO - URL is opened
+2019-06-19 11:49:16,267 - ebanking -INFO - URL is opened
+2019-06-19 11:49:18,621 - ebanking -INFO - Entered username
+2019-06-19 11:49:18,843 - ebanking -INFO - Entered passward
+2019-06-19 11:49:43,037 - ebanking -INFO - Login test  passed
+2019-06-19 12:04:20,827 - ebanking -INFO - URL is opened
+2019-06-19 12:04:22,964 - ebanking -INFO - Entered username
+2019-06-19 12:04:23,186 - ebanking -INFO - Entered passward
+2019-06-19 12:04:47,527 - ebanking -INFO - Login test  passed
+2019-06-19 12:20:15,203 - ebanking -INFO - URL is opened
+2019-06-19 12:20:17,228 - ebanking -INFO - Entered username
+2019-06-19 12:20:17,452 - ebanking -INFO - Entered passward
+2019-06-19 12:20:41,823 - ebanking -INFO - Login test  passed
+2019-06-19 12:24:23,031 - ebanking -INFO - URL is opened
+2019-06-19 12:24:25,328 - ebanking -INFO - Entered username
+2019-06-19 12:24:25,552 - ebanking -INFO - Entered passward
+2019-06-19 16:31:41,914 - ebanking -INFO - URL is opened
+2019-06-19 16:31:44,798 - ebanking -INFO - Entered username
+2019-06-19 16:31:45,097 - ebanking -INFO - Entered passward
+2019-06-19 16:31:48,574 - ebanking -INFO - Login test  passed
+2019-06-19 16:50:40,168 - ebanking -INFO - user name provided
+2019-06-19 16:50:40,473 - ebanking -INFO - passward provided
+2019-06-19 16:50:48,962 - ebanking -INFO - Login Pass
+2019-06-19 16:50:57,085 - ebanking -INFO - user name provided
+2019-06-19 16:50:57,351 - ebanking -INFO - passward provided
+2019-06-19 16:51:06,347 - ebanking -INFO - user name provided
+2019-06-19 16:51:06,583 - ebanking -INFO - passward provided
+2019-06-19 16:51:15,392 - ebanking -INFO - user name provided
+2019-06-19 16:51:15,623 - ebanking -INFO - passward provided
+2019-06-19 16:51:22,744 - ebanking -INFO - Login Pass
+2019-06-24 16:51:29,748 - ebanking -INFO - User name is provided
+2019-06-24 16:51:30,134 - ebanking -INFO - password is provided
+2019-06-24 16:52:15,464 - ebanking -INFO - Providing Customer Details...
+2019-06-24 16:52:33,089 - ebanking -INFO - Test case passed...
+2019-06-24 16:54:12,808 - ebanking -INFO - URL is opened
+2019-06-24 16:54:15,770 - ebanking -INFO - Entered username
+2019-06-24 16:54:16,120 - ebanking -INFO - Entered passward
+2019-06-24 16:54:19,484 - ebanking -INFO - Login test  passed
+2019-06-24 16:54:44,846 - ebanking -INFO - user name provided
+2019-06-24 16:54:45,269 - ebanking -INFO - passward provided
+2019-06-24 16:54:58,944 - ebanking -INFO - Login Pass
+2019-06-24 16:55:08,026 - ebanking -INFO - user name provided
+2019-06-24 16:55:08,383 - ebanking -INFO - passward provided
+2019-06-24 16:55:18,145 - ebanking -INFO - user name provided
+2019-06-24 16:55:18,463 - ebanking -INFO - passward provided
+2019-06-24 16:55:28,264 - ebanking -INFO - user name provided
+2019-06-24 16:55:28,749 - ebanking -INFO - passward provided
+2019-06-24 16:55:38,333 - ebanking -INFO - Login Pass
+2019-06-24 16:56:13,156 - ebanking -INFO - User name is provided
+2019-06-24 16:56:13,523 - ebanking -INFO - password is provided
+2019-06-24 16:56:29,936 - ebanking -INFO - Providing Customer Details...
+2019-06-25 11:57:53,921 - ebanking -INFO - URL is opened
+2019-06-25 16:04:37,895 - ebanking -INFO - URL is opened

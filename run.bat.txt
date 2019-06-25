@@ -1,0 +1,2 @@
+cd C:\Users\Digambar\Desktop\Priyanka Java\inetBanking
+mvn clean install
